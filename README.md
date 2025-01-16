@@ -39,7 +39,7 @@ Remove registros de colaboradores do sistema, mantendo o banco de dados organiza
 
 ## 3. Diagrama de Classes
 
-`mermaid
+````mermaid
 classDiagram
 class Nome da classe {
    - id 
@@ -55,7 +55,7 @@ class Nome da classe {
   + atualizar colaborador()
    + deletar colaborador()
 }
-`
+````
 
 ------
 
