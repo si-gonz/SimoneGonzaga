@@ -61,7 +61,7 @@ class Nome da classe {
 
 ## 4. Diagrama Entidade-Relacionamento (DER)
 
-                                        ![Descrição da imagem](https://github.com/si-gonz/assents/blob/main/diagrama_rh.png?raw=true)
+![Descrição da imagem](https://github.com/si-gonz/assents/blob/main/diagrama_rh.png?raw=true)
 
 
 
